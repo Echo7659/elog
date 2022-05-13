@@ -1,4 +1,4 @@
-module elog
+module github.com/echo7659/elog
 
 go 1.18
 
