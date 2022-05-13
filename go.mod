@@ -3,7 +3,6 @@ module elog
 go 1.18
 
 require (
-	github.com/caarlos0/env/v6 v6.9.2
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	go.uber.org/zap v1.21.0
 	gorm.io/gorm v1.23.5
