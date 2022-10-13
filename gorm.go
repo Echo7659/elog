@@ -1,4 +1,4 @@
-package elog
+package github.com/Echo7659/elog
 
 // Author: Echo
 
